@@ -1,2 +1,2 @@
 # js-music-app
-# Thia ia a music app in JS.
+# This ia a music app in JS.
